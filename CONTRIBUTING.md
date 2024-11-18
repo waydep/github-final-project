@@ -1,6 +1,1 @@
-Thank you!
-
-## Getting started
-**Cloning**
-```bash
-git clone https://github.com/waydep/myfirst.git
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
